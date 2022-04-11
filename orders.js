@@ -40,5 +40,5 @@ const Orders = [
         productNumber: '00482',
         paymentStatus: 'Paid',
         shipping: 'Delivered'
-    },
+    }
 ]
